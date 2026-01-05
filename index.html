@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>DART SystmOne Helper</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <header class="wrap">
+        <h1>DART SystmOne Helper</h1>
+        <p class="sub">Copy-and-paste bank organised by SystmOne sections.</p>
+    </header>
+
+    <main class="wrap">
+        <nav class="tabs" role="tablist" aria-label="SystmOne sections">
+            <button class="tab active" data-section="portal" role="tab" aria-selected="true">Portal</button>
+            <button class="tab" data-section="careplan" role="tab" aria-selected="false">Stars / Care Plan</button>
+            <button class="tab" data-section="risk" role="tab" aria-selected="false">Risk Assessment</button>
+        </nav>
+
+        <section class="panel">
+            <div class="row">
+                <label>
+                    Category
+                    <select id="categorySelect"></select>
+                </label>
+
+                <label>
+                    Item
+                    <input id="itemSearch" type="text" placeholder="Search items…" autocomplete="off" />
+                    <select id="itemSelect"></select>
+                </label>
+
+            </div>
+
+            <div class="grid">
+                <div class="card">
+                    <h2>Staff notes</h2>
+                    <p id="workerNotes" class="muted">Select an item…</p>
+                </div>
+
+                <div class="card">
+                    <h2>SystmOne wording</h2>
+                    <textarea id="textOutput" rows="12" spellcheck="false"></textarea>
+                    <div class="actions">
+                        <button id="copyBtn">Copy</button>
+                        <span id="copyStatus" class="status" aria-live="polite"></span>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="wrap foot">
+        <small>Static tool (no logins, no tracking). Edit content in /data/*.json</small>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

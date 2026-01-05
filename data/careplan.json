@@ -1,0 +1,338 @@
+{
+  "title": "Stars / Care Plan",
+  "categories": [
+    {
+      "id": "goals",
+      "name": "Goals",
+      "items": [
+        {
+          "id": "goal-knowledge-interactions",
+          "title": "[GOAL] Increase knowledge of substances & interactions",
+          "worker_notes": "Care plan goal about knowledge/awareness and informed choices.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "GOAL: To increase [CLIENT]’s knowledge and awareness of the drugs he is using and how they interact with each other and with alcohol to enable him to make informed choices and reduce risks to himself and others."
+        },
+        {
+          "id": "goal-address-substance-misuse-lifestyle",
+          "title": "[GOAL] Address substance misuse behaviour & lifestyle",
+          "worker_notes": "Care plan goal for support with substance misuse lifestyle.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "GOAL: [CLIENT] would like help and support to address substance misusing behaviour and lifestyle."
+        },
+        {
+          "id": "goal-reduce-off-methadone",
+          "title": "[GOAL] Seek help whilst reducing off Methadone script",
+          "worker_notes": "Use where reduction off Methadone is part of the agreed goal (if appropriate).",
+          "text": "GOAL: Seek help and support whilst reducing off Methadone script."
+        },
+        {
+          "id": "goal-pro-social-routine",
+          "title": "[GOAL] Develop pro-social routine (boredom trigger)",
+          "worker_notes": "Care plan goal around routine and boredom as a trigger.",
+          "text": "GOAL: Develop a pro-social and active routine to help stop boredom acting as a trigger to using."
+        },
+        {
+          "id": "goal-emotional-physical-wellbeing",
+          "title": "[GOAL] Improve emotional & physical wellbeing",
+          "worker_notes": "Care plan goal around wellbeing.",
+          "text": "GOAL: Practice ways to help improve emotional and physical wellbeing."
+        },
+        {
+          "id": "goal-peer-mentors",
+          "title": "[GOAL] Engage with DART Peer Mentors",
+          "worker_notes": "Care plan goal to engage with peer support.",
+          "text": "GOAL: Engage in support from the DART Peer Mentors on the Unit."
+        }
+      ]
+    },
+    {
+      "id": "structured-interventions",
+      "name": "Structured Interventions / Actions",
+      "items": [
+        {
+          "id": "delivery-method-standard",
+          "title": "[METHOD] Structured 1:1 format (standard wording)",
+          "worker_notes": "Reference block to copy into other entries if needed.",
+          "text": "Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+
+        {
+          "id": "addiction-in-the-brain",
+          "title": "[EDUCATION] Addiction in the Brain",
+          "worker_notes": "Structured work on addiction and the brain.",
+          "text": "Addiction in the Brain: To understand addiction, how the brain becomes addicted and the effects of this in drug using behaviour. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "brain-addiction",
+          "title": "[EDUCATION] Brain Addiction",
+          "worker_notes": "Structured work on what is meant by brain addiction.",
+          "text": "Brain Addiction: To learn what is meant by brain addiction. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "acknowledging-changes",
+          "title": "[CHANGE] Acknowledging Changes",
+          "worker_notes": "Readiness/acknowledging change must happen.",
+          "text": "Acknowledging Changes: To learn and understand change must happen. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "addiction-transfer",
+          "title": "[CHANGE] Addiction Transfer",
+          "worker_notes": "Explore addiction transfer and responses.",
+          "text": "Addiction Transfer: To explore the issues around addiction transfer and how best to respond. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "dishonesty-addiction",
+          "title": "[RECOVERY] Dishonesty & Addiction",
+          "worker_notes": "Work on dishonesty linked to addiction.",
+          "text": "Dishonesty & Addiction: To learn and understand what is meant by dishonesty & addiction. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "consequential-thinking",
+          "title": "[THINKING] Consequential Thinking",
+          "worker_notes": "Decision-making/problem solving work.",
+          "text": "Consequential Thinking: To learn what is meant by consequential thinking and how it can be applied. Identify temptations and problem solving, raise awareness of obstacles to reduce re-offending, identify decision making and coping skills, and how to apply consequential thinking and improve decision making. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "values-beliefs",
+          "title": "[VALUES] Values & Beliefs",
+          "worker_notes": "Values/beliefs work.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Values & Beliefs: To learn and understand what are [CLIENT]’s values & beliefs. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+
+        {
+          "id": "anxiety",
+          "title": "[WELLBEING] Anxiety",
+          "worker_notes": "Structured work on anxiety and recovery impact.",
+          "text": "Anxiety: To learn and understand the meaning of anxiety (good & bad) and how this can impact on recovery. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "depression",
+          "title": "[WELLBEING] Depression",
+          "worker_notes": "Structured work on depression and recovery impact.",
+          "text": "Depression: To learn and understand more about depression and how this can impact on recovery. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "emotional-health",
+          "title": "[WELLBEING] Emotional Health",
+          "worker_notes": "Emotional triggers and safer management.",
+          "text": "Emotional Health: To learn how to build emotional health and how to safely manage emotional triggers which may lead to drug/alcohol use. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "rumination",
+          "title": "[WELLBEING] Rumination",
+          "worker_notes": "Understanding rumination and coping.",
+          "text": "Rumination: To learn what is meant by rumination and how best to respond to this positively. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "sleep-problems",
+          "title": "[WELLBEING] Sleep Problems",
+          "worker_notes": "Sleep and recovery education.",
+          "text": "Sleep problems: To look at how we can improve our sleep when we are in recovery by increasing knowledge and understanding of the problems that affect sleep. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "anger-management",
+          "title": "[WELLBEING] Anger Management",
+          "worker_notes": "Work on how anger affects the client.",
+          "text": "Anger Management: How anger affects me. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "anger-criticism",
+          "title": "[WELLBEING] Anger & Criticism",
+          "worker_notes": "Criticism triggers and responses.",
+          "text": "Anger Criticism: To look at how my anger and me being criticised affects me and how I can resolve this. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+
+        {
+          "id": "substance-awareness",
+          "title": "[SUBSTANCE] Substance Awareness (stimulants/depressants)",
+          "worker_notes": "General drug class education.",
+          "text": "Substance Awareness: To increase knowledge of depressants and stimulants, and develop a better understanding of how they affect mood, interact with other drugs, and implications on physical and mental health. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "poly-drug-use",
+          "title": "[SUBSTANCE] Poly Drug Use",
+          "worker_notes": "Risks of multiple drug use.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Poly Drug use: To increase [CLIENT]’s awareness and understanding of the danger of using multiple drugs. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+
+        {
+          "id": "alcohol-awareness",
+          "title": "[ALCOHOL] Alcohol Awareness",
+          "worker_notes": "Alcohol impacts + mixing with stimulants/depressants.",
+          "text": "Alcohol awareness: To look at effects of alcohol on liver and mental and physical health and the effects it has when mixed with stimulants and depressants. Delivery: Structured 1:1s, in depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "alcohol-and-violence",
+          "title": "[ALCOHOL] Alcohol & Violence",
+          "worker_notes": "Alcohol, mood, aggression and consequences.",
+          "text": "Alcohol and Violence: To look at effects of alcohol on mood and subsequent aggression that can present following consumption of large amounts of alcohol and the resulting consequences. Delivery: Structured 1:1s, in depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "recovery-skills-drinking",
+          "title": "[ALCOHOL] Recovery Skills (safer drinking/moderation)",
+          "worker_notes": "Drinking moderation/safer drinking skills.",
+          "text": "Recovery Skills: To look at ways to control how much I drink so I can drink safer and in moderation. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "alcohol-workbook-management",
+          "title": "[ALCOHOL] Workbook (risk to self/others & safer management)",
+          "worker_notes": "Use when completing an alcohol workbook in 1:1 contact and focusing on risks + safer management.",
+          "text": "Alcohol workbook: Client to read and complete workbook which Recovery Coordinator will go through during 1:1 contact, allowing the client to ask questions and discuss areas he is unsure of. Aim is to develop better understanding of risks to self and others and improve management of self when drinking. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+
+        {
+          "id": "amphetamines",
+          "title": "[SUBSTANCE] Amphetamines",
+          "worker_notes": "Effects/risks + mixing with alcohol.",
+          "text": "Amphetamines: To look at effects of amphetamines and how they work in the body and the risks they present when over used and used with other drugs, particularly alcohol. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "benzodiazepines",
+          "title": "[SUBSTANCE] Benzodiazepines",
+          "worker_notes": "Effects/risks + mixing.",
+          "text": "Benzodiazepines: To look at effects of benzodiazepines and how they work in the body and the risks they present when over used and used with other drugs. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "cannabis-effects",
+          "title": "[SUBSTANCE] Cannabis (effects & addictive qualities)",
+          "worker_notes": "Cannabis impacts + interactions.",
+          "text": "Cannabis: To explore the effects of cannabis and its addictive qualities, and the impact on mental and physical health and how it works alongside other illicit substances. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "cannabis-how-affects-me",
+          "title": "[SUBSTANCE] Cannabis (how it affects me)",
+          "worker_notes": "Cannabis personal impact wording.",
+          "text": "Cannabis: To have a better understanding of how cannabis affects me and the impact it has on mental and physical health. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "crack-cocaine",
+          "title": "[SUBSTANCE] Crack/Cocaine (mood, interactions, health)",
+          "worker_notes": "Cocaine education (detailed).",
+          "text": "Crack/Cocaine: To increase knowledge and develop a better understanding of how it affects mood, interacts with other drugs, and implications on physical and mental health. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "cocaine-danger",
+          "title": "[SUBSTANCE] Cocaine (danger awareness)",
+          "worker_notes": "Cocaine danger awareness (short).",
+          "text": "Cocaine: To increase awareness and understanding of the danger of using cocaine. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "cocaethylene",
+          "title": "[SUBSTANCE] Cocaethylene (alcohol + cocaine)",
+          "worker_notes": "Alcohol + cocaine mixing creating cocaethylene.",
+          "text": "Cocaethylene: To increase understanding of alcohol and cocaine mixing in the body creating the toxin cocaethylene, and the damage it can do to the liver in particular. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "heroin",
+          "title": "[SUBSTANCE] Heroin (danger awareness)",
+          "worker_notes": "Heroin danger awareness.",
+          "text": "Heroin: To increase awareness and understanding of the danger of using heroin. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "subutex",
+          "title": "[SUBSTANCE] Subutex (danger awareness)",
+          "worker_notes": "Subutex danger awareness.",
+          "text": "Subutex: To increase awareness and understanding of the danger of using subutex. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+
+        {
+          "id": "harm-reduction-awareness",
+          "title": "[HARM REDUCTION] Harm Reduction (awareness)",
+          "worker_notes": "Shorter harm reduction awareness wording (separate from the detailed DVT/BBV/Hepatitis version).",
+          "text": "Harm Reduction: To increase awareness, knowledge and understanding around the subject of harm reduction. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "harm-reduction-structured",
+          "title": "[HARM REDUCTION] Harm Reduction (structured work)",
+          "worker_notes": "Care plan structured harm reduction education (more detailed).",
+          "text": "Harm Reduction: To gain knowledge and understanding of ways to reduce risks of overdose, death and potential long term health issues by using harm reduction methods, and being fully aware of overdose risks posed by using illicit drugs and associated health implications (e.g. DVT, BBVs, Hepatitis). Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "harm-min-initial-phone",
+          "title": "[HARM REDUCTION] Harm Min (initial/phone appointment topics)",
+          "worker_notes": "Initial/phone appointment topics as per source list.",
+          "text": "Harm min: Discussion and information given at initial and during phone appointment – tolerance, BBV, relapse prevention, consequential thinking, and debt. To understand ways to reduce risks of overdose, death and potential long term health issues by using harm reduction methods and being fully aware of overdose risks posed by using illicit drugs. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+
+        {
+          "id": "naloxone-structured",
+          "title": "[NALOXONE] Overdose awareness & Naloxone (structured)",
+          "worker_notes": "Care plan action for Naloxone education/training.",
+          "text": "Naloxone: To increase overdose awareness, recognise signs of overdose and learn how to administer Naloxone safely and put someone in the recovery position while waiting for an ambulance. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+
+        {
+          "id": "triggers-cravings",
+          "title": "[RP] Triggers & Cravings",
+          "worker_notes": "Relapse prevention action focusing on triggers/cravings.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Triggers & Cravings: To learn what [CLIENT]’s triggers and cravings are and how he can best respond. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "relapse-prevention-summary",
+          "title": "[RP] Relapse Prevention (summary)",
+          "worker_notes": "Relapse prevention action (summary wording).",
+          "text": "Relapse Prevention: To increase knowledge and awareness around relapse prevention. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "relapse-prevention-detailed",
+          "title": "[RP] Relapse Prevention (detailed)",
+          "worker_notes": "Relapse prevention action (detailed wording).",
+          "text": "Relapse Prevention: To look at triggers and cravings and have an understanding of relapse prevention techniques. To identify risky situations and manage them effectively. To identify the difference between lapse and relapse. To identify support networks and how to use them to build on recovery capital. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+
+        {
+          "id": "offending-behaviour",
+          "title": "[OFFENDING] Offending Behaviour",
+          "worker_notes": "Explore offending cycle and links to substance misuse.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Offending Behaviour: To explore how and why [CLIENT] got involved in crime, what influenced him, and to explore ways he could break the cycle of offending and substance misuse. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        }
+      ]
+    },
+    {
+      "id": "clinical-ost-methadone",
+      "name": "Clinical / OST (Methadone)",
+      "items": [
+        {
+          "id": "methadone-titrate-maintain-reduce",
+          "title": "[METHADONE] Titrate / maintain / reduction plan",
+          "worker_notes": "Methadone action across the recovery journey.",
+          "text": "Methadone: To titrate to a therapeutic dose, maintain, and later discuss a reduction plan. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "methadone-knowledge-risks",
+          "title": "[METHADONE] Knowledge & risks (incl. illicit methadone)",
+          "worker_notes": "Education around prescribed vs illicit methadone risks.",
+          "text": "Methadone: To increase knowledge, understanding and risks around being prescribed methadone and the use of illicit methadone. Delivery: Structured 1:1s, in-depth discussions, maps, information and/or workbooks."
+        },
+        {
+          "id": "stability-on-methadone-script",
+          "title": "[METHADONE] Stability on script (contact plan)",
+          "worker_notes": "Use when recording clinical/non-clinical contact frequency to support stability.",
+          "text": "Stability on Methadone Script.\n\nAction – Engage with Clinical DART daily at dispensing and 13/52 reviews. Engage with non-clinical DART monthly to ensure stability and to avoid illicit drug use."
+        }
+      ]
+    },
+    {
+      "id": "release-community-continuity",
+      "name": "Release / Community Continuity",
+      "items": [
+        {
+          "id": "community-referral-general",
+          "title": "[RELEASE] Community referral (general)",
+          "worker_notes": "Use when documenting community referral planning.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Community referral to be completed to ensure [CLIENT] has a script (where applicable) and ongoing support in the community from local drug and alcohol service when released."
+        },
+        {
+          "id": "community-referral-form-complete",
+          "title": "[RELEASE] Community Referral Form completed & sent",
+          "worker_notes": "Use where the referral form is completed and emailed.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Community Referral Form to be completed with [CLIENT] and emailed to his local treatment provider to ensure continuation of methadone script once released."
+        },
+        {
+          "id": "post-release-appointments-letter-harm-min",
+          "title": "[RELEASE] Appointment letter + harm minimisation",
+          "worker_notes": "Use where appointment letter issued and harm minimisation discussed.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Post Release Appointments, Letter and Harm Min: To issue [CLIENT] with an appointment letter for post-release appointments and discuss harm minimisation as well as Naloxone training if required. Letter and e-mail prison and community referral form to community drug & alcohol provider."
+        }
+      ]
+    }
+  ]
+}

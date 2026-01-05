@@ -1,0 +1,173 @@
+{
+  "title": "Risk Assessment",
+  "categories": [
+    {
+      "id": "violence",
+      "name": "Violence",
+      "items": [
+        {
+          "id": "violence-actions",
+          "title": "[VIOLENCE] Risk & Actions",
+          "worker_notes": "Violence risk management actions.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "VIOLENCE – [CLIENT] has a history of violent behaviour.\n\nACTIONS:\n\nStaff Safety – Staff should report to HB Officers which client they have come to see and which designated/appropriate room contact will be taking place.\n\nStaff Safety – Staff should sit near the green alarm button or nearest room exit during contact.\n\nSafety – Staff to ensure appropriate safety procedures are followed prior to attending the appointment, in line with local procedures.\n\nContinuity of Care – Staff to ensure this risk is shared with the Community Treatment Provider as part of continuity of care at the release stage.\n\nDART Staff Team – Worker to inform and update staff of potential risks via the daily flash meeting."
+        }
+      ]
+    },
+    {
+      "id": "gang-related-behaviour",
+      "name": "Gang Related Behaviour",
+      "items": [
+        {
+          "id": "gang-actions",
+          "title": "[GANG] Risk & Actions",
+          "worker_notes": "Gang-related behaviour actions (IR/Security and team comms).",
+          "text": "GANG RELATED BEHAVIOUR\n\nSecurity – Complete an IR and submit to Security. Advise House Block Officers of any disclosed or observed behaviour which may pose a risk to others on the wing, within the prison, or in the community.\n\nDART Staff Team – Worker to inform and update staff of potential risks via the daily flash meeting."
+        }
+      ]
+    },
+    {
+      "id": "risk-to-females",
+      "name": "Risk to Females",
+      "items": [
+        {
+          "id": "risk-to-females-actions",
+          "title": "[FEMALES] Risk & Actions",
+          "worker_notes": "Female staff safety guidance.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "RISK TO FEMALES\n\nStaff Safety – Female staff to conclude face-to-face contact if they feel vulnerable or threatened in any way.\n\nStaff Safety – Female worker to inform wing Officers of any inappropriate behaviour or language demonstrated by [CLIENT].\n\nStaff Safety – Female worker to check CNOMIS risk assessment and notes prior to any face-to-face contact.\n\nSafety – IR to be submitted and wing Officers informed of any inappropriate behaviour or language.\n\nDART Staff Team – Worker to inform and update staff of potential risks via the daily flash meeting."
+        }
+      ]
+    },
+    {
+      "id": "anxiety-depression",
+      "name": "Anxiety & Depression",
+      "items": [
+        {
+          "id": "anxiety-depression-actions",
+          "title": "[MH] Anxiety & Depression – Joint Working",
+          "worker_notes": "Use when escalating deterioration to Mental Health Team.",
+          "text": "ANXIETY AND DEPRESSION\n\nJoint Working – Recovery Coordinator to discuss concerns with the Mental Health Team if anxiety or depression deteriorates."
+        }
+      ]
+    },
+    {
+      "id": "risk-to-children",
+      "name": "Risk to Children",
+      "items": [
+        {
+          "id": "risk-to-children-actions",
+          "title": "[SAFEGUARDING] Risk to Children – Actions",
+          "worker_notes": "Safeguarding actions and continuity of care.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "RISK TO CHILDREN\n\nPlan – Social Services to be contacted and referral made if any concerns arise regarding children’s safety on release.\n\nContinuity of Care – Risk to be shared with Community Treatment Provider at release.\n\nSecurity – IR to be submitted and wing Officers informed of any inappropriate language, comments or plans disclosed by [CLIENT].\n\nDART Staff Team – Worker to update staff via the daily flash meeting."
+        }
+      ]
+    },
+    {
+      "id": "illicit-drug-use",
+      "name": "Illicit Drug Use",
+      "items": [
+        {
+          "id": "illicit-drug-use-actions",
+          "title": "[SUBSTANCE] Illicit Drug Use – Support Plan",
+          "worker_notes": "Use where client reports no current use but a plan is documented for lapse/relapse.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "ILLICIT DRUG USE\n\n[CLIENT] reports not currently using illicit drugs; however, a plan is in place should lapse or relapse occur.\n\nACTIONS:\n\nSupport – [CLIENT] advised to contact DART via the kiosk or by asking Officers on the House Block if tempted to use or requiring additional support.\n\nHarm Reduction – DART worker to reiterate harm reduction advice and provide written information.\n\nSupport Plan – DART worker and [CLIENT] to formulate a support plan going forward. Referral to Clinical DART to be completed if required.\n\nPrescribing – Referral to Clinical DART for substitute prescribing or script review where appropriate.\n\nClinical DART – Clinical team to be informed of any illicit use alongside prescribed medication.\n\nDART Staff Team – Worker to update staff via the daily flash meeting.\n\nRandom Drug Testing – [CLIENT] to provide urine samples as requested under the Gateway Programme Compact."
+        }
+      ]
+    },
+    {
+      "id": "domestic-violence",
+      "name": "Domestic Violence",
+      "items": [
+        {
+          "id": "domestic-violence-actions",
+          "title": "[DV] Risk & Actions",
+          "worker_notes": "Domestic violence risk actions (continuity + IR if required).",
+          "text": "DOMESTIC VIOLENCE\n\nContinuity of Care – Risk to be shared with Community Treatment Provider at release.\n\nCommunication – Intelligence Report to be submitted if disclosures or concerns arise.\n\nDART Staff Team – Worker to update staff via the daily flash meeting."
+        }
+      ]
+    },
+    {
+      "id": "mental-health",
+      "name": "Mental Health",
+      "items": [
+        {
+          "id": "mental-health-actions",
+          "title": "[MH] Multi-Agency Working",
+          "worker_notes": "Use for immediate mental health concerns and liaison.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "MENTAL HEALTH\n\nMulti-Agency Working – Liaise with partnership agencies regarding any immediate mental health concerns relating to [CLIENT]."
+        }
+      ]
+    },
+    {
+      "id": "self-harm",
+      "name": "Self Harm",
+      "items": [
+        {
+          "id": "self-harm-actions",
+          "title": "[SH] ACCT & Safeguarding Actions",
+          "worker_notes": "Use when documenting self-harm/suicide risk actions.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "SELF HARM\n\nClient Safety – Recovery Coordinator to open an ACCT if [CLIENT] reports thoughts of self-harm or suicide.\n\nCommunication – Personal Officer or Senior Officer on the wing to be informed.\n\nJoint Working – Referral to Mental Health Team.\n\nPlan – Daily contact to be made with [CLIENT] for [DURATION] to provide additional support.\n\nJoint Working – Attendance at ACCT reviews as scheduled.\n\nSafeguarding – Safeguarding referral to be recorded.\n\nMonitoring – Daily operational reports to be checked.\n\nDART Staff Team – Worker to update staff via the daily flash meeting until ACCT closed."
+        }
+      ]
+    },
+    {
+      "id": "contingency-management",
+      "name": "Contingency Management",
+      "items": [
+        {
+          "id": "contingency-actions",
+          "title": "[CONTINGENCY] Transfer / Release / Disengagement",
+          "worker_notes": "Use for transfer/release/disengagement contingencies.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "CONTINGENCY MANAGEMENT\n\nTransfer – If [CLIENT] transfers, treatment information to be sent to the receiving establishment.\n\nRelease – If [CLIENT] is released at short notice, treatment information to be shared with Community Treatment Provider.\n\nDisengagement – If [CLIENT] disengages, two further contacts to be offered.\n\nDART Staff Team – Worker to update staff via the daily flash meeting."
+        }
+      ]
+    },
+    {
+      "id": "staffing-levels",
+      "name": "Staffing Levels",
+      "items": [
+        {
+          "id": "staffing-levels-note",
+          "title": "[OPS] Staffing Levels – Contact Frequency",
+          "worker_notes": "Use when recording service contact frequency expectations.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "STAFFING LEVELS\n\nDue to staffing levels and caseloads, contact frequency may vary between 4–8 weeks. [CLIENT] has been made aware.\n\nPlan – [CLIENT] advised to submit a kiosk application if additional support is required prior to next scheduled contact."
+        }
+      ]
+    },
+    {
+      "id": "arson",
+      "name": "Arson",
+      "items": [
+        {
+          "id": "arson-actions",
+          "title": "[ARSON] Risk & Actions",
+          "worker_notes": "Use for IR/continuity actions relating to arson risk.",
+          "text": "ARSON\n\nJoint Working – Intelligence Report to be submitted following any disclosure or evidence of arson risk.\n\nContinuity of Care – Risk to be shared with Community Treatment Provider at release."
+        }
+      ]
+    },
+    {
+      "id": "homelessness",
+      "name": "Homelessness",
+      "items": [
+        {
+          "id": "homelessness-actions",
+          "title": "[HOUSING] Through the Gate / Housing Office",
+          "worker_notes": "Use for accommodation planning actions.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "HOMELESSNESS\n\nPartnership Working – Referral to Through the Gate service.\n\nPlan – [CLIENT] advised to present at the Homeless Housing Office following release."
+        }
+      ]
+    },
+    {
+      "id": "casu-secreted-items",
+      "name": "CASU / Secreted Items",
+      "items": [
+        {
+          "id": "casu-secreted-items-actions",
+          "title": "[CASU] Secreted Items – Presentation & Actions",
+          "worker_notes": "Use when a client is located under Secreted Items Policy and actions are taken.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "CASU / SECRETED ITEMS\n\n[CLIENT] located in the [UNIT] under the Secreted Items Policy. Presentation included [OBSERVATIONS]. [CLIENT] denied illicit substance use or having items secreted.\n\nACTIONS:\n\nSecreted Items Policy updated.\n\nHealthcare informed and requested to attend.\n\nNOMIS updated to document concerns and actions.\n\nWing staff informed.\n\nFollow-up appointment to be arranged.\n\nSystemOne updated.\n\nAlert sent to allocated Recovery Coordinator."
+        }
+      ]
+    }
+  ]
+}

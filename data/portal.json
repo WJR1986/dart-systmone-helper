@@ -1,0 +1,245 @@
+{
+  "title": "Portal / Contact Notes",
+  "categories": [
+    {
+      "id": "harm-reduction",
+      "name": "Harm Reduction",
+      "items": [
+        {
+          "id": "placeholders-info",
+          "title": "[INFO] How to use placeholders (reference only)",
+          "worker_notes": "Reference only — not for copying.",
+          "text": "Templates may include placeholders in [SQUARE BRACKETS]. Replace them before saving.\n\nCommon placeholders:\n\n[CLIENT] – client name or pronoun\n[DATE] – date of contact\n[LANDING / LOCATION] – wing/landing/unit\n[UNIT / CASU] – CASU/healthcare/other unit\n[OBSERVATIONS] – objective presentation (as recorded)\n[DURATION] – e.g. “7 days”, “2 weeks”\n[SEASON / HOLIDAY PERIOD] – e.g. “Christmas period”\n[SUBSTANCES] – list as discussed"
+        },
+        {
+          "id": "general-harm-reduction",
+          "title": "[GENERAL] Harm Reduction – Contact Note Block",
+          "worker_notes": "General harm reduction discussion; adjust to the contact.",
+          "text": "Harm reduction advice discussed focusing on vulnerability at this time of year, including missing family and emotional wellbeing. Discussion included the impact of illicit substance use on mental and physical health, reduced tolerance levels following periods of abstinence, withdrawal risks, overdose risks, BBV awareness, and risks associated with using illicit substances on top of prescribed medication. Client was also advised of current drug trends within the establishment and the increased risks posed by unknown or contaminated substances."
+        },
+        {
+          "id": "seasonal-holiday-risk",
+          "title": "[SEASONAL] Harm Reduction – Holiday / Significant Dates",
+          "worker_notes": "Use when discussing increased risk around holiday periods or significant dates.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Harm reduction advice discussed in relation to increased vulnerability during the [SEASON / HOLIDAY PERIOD], including missing family, emotional wellbeing, and increased availability of illicit substances. Risks to mental and physical health, reduced tolerance levels, and overdose risk were discussed."
+        },
+        {
+          "id": "incident-landing-general",
+          "title": "[INCIDENT] Landing – Unknown Substances (General)",
+          "worker_notes": "Use when harm reduction is delivered due to trends/incidents on a landing, CASU removals, or observations.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "On [DATE], harm reduction information delivered due to concerns around unknown illicit substances on [LANDING / LOCATION] and multiple individuals being removed to [UNIT / CASU] or monitored for health concerns. No reports [CLIENT] is involved or intoxicated."
+        },
+        {
+          "id": "incident-landing-phone-contact",
+          "title": "[INCIDENT] Landing – Phone Contact (Client on Landing)",
+          "worker_notes": "Use when you phone the client because they are located on a landing with current concerns.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "On [DATE], harm reduction information delivered and discussed via the phone due to concerns around unknown illicit substances on [LANDING / LOCATION] and multiple individuals being removed to [UNIT / CASU] or placed on observations due to intoxication. I contacted [CLIENT] due to him being on the landing with raised concerns around illicit substances. No reports that [CLIENT] is involved and [CLIENT] stated he has no involvement and has not taken anything."
+        },
+        {
+          "id": "robust-harm-reduction-summary",
+          "title": "[GENERAL] Robust Harm Reduction – Summary (Audit-Friendly)",
+          "worker_notes": "A strong ‘robust HR’ paragraph for audits.",
+          "text": "Robust harm reduction given around tolerance levels, poly drug use, sharing drug paraphernalia, overdose risks, blood borne viruses, not using alone, impact of prescribed medication on illicit drug use and increased overdose risks. Risks of serious harm and possible death explained and advice given."
+        },
+        {
+          "id": "harm-reduction-trends-establishment",
+          "title": "[TRENDS] Current Drug Trends in Establishment",
+          "worker_notes": "Use when you specifically mention current trends (benzos, NPS/psychoactives, hooch, subutex etc.).",
+          "text": "Thoroughly discussed harm reduction advice around the risks associated with illicit substance use, impacts to mental and physical health, reduced tolerance levels, withdrawal risks, risk of overdose, poly-drug use, and using on top of prescribed medication. Also advised of the risks associated with current drug trends within the establishment such as benzodiazepine, psychoactive substances, prison hooch and subutex."
+        },
+        {
+          "id": "named-substances-cluster",
+          "title": "[SUBSTANCES] Named Substances Discussed (e.g. Xanax / Pregabalin / NPS)",
+          "worker_notes": "Use when naming specific substances discussed.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Harm reduction advice discussed around the risks associated with specific substances including [SUBSTANCES – e.g. Xanax, pregabalin, psychoactive substances (NPS)] and other prescription medications. Discussed increased risks when using these substances alongside alcohol or other illicit drugs."
+        },
+        {
+          "id": "poly-drug-mixing",
+          "title": "[POLY-USE] Mixing Substances (incl. Alcohol + Cocaine)",
+          "worker_notes": "Use when focusing on mixing substances, especially alcohol + cocaine (cocaethylene).",
+          "text": "Discussed harm reduction advice around poly drug use and the dangers of mixing stimulants with depressants. Advised not to use alcohol with cocaine due to formation of cocaethylene and increased risk of liver damage. Risks explained and advice given."
+        },
+        {
+          "id": "pressure-sharing-equipment",
+          "title": "[SAFER USE] Pressure to Use / Sharing Equipment",
+          "worker_notes": "Use when addressing coercion, bullying, pressured use, and sharing works.",
+          "text": "Discussed harm reduction advice including not feeling pressured into using or sharing drugs or equipment, including tourniquets. Promoted honest discussion around use to ensure risks are reduced as they occur."
+        },
+        {
+          "id": "honest-discussion-promoted",
+          "title": "[PRACTICE] Honest Discussion Promoted",
+          "worker_notes": "Short add-on line for Portal notes.",
+          "text": "An honest discussion around substance use was promoted to help reduce risk and encourage engagement."
+        },
+        {
+          "id": "start-small-avoid-mixing-bullets",
+          "title": "[CHECKLIST] Quick Safer-Use Checklist (Bullets)",
+          "worker_notes": "Fast bullet list for Portal notes.",
+          "text": "Start with a small amount (e.g. a dab or half a pill).\n\nDon’t be afraid of seeking help and being honest about what you have taken.\n\nAvoid mixing drugs, especially with alcohol. Remember Methadone (even if prescribed) is a drug and will increase overdose risks if used with illicit drugs.\n\nTell someone you are with what you have taken.\n\nTry and buy from a trusted source.\n\nTry to avoid injecting as getting the right amount is difficult for first time users and it carries greater risks.\n\nTry to use with trusted friends in a safe environment, especially if it’s your first time.\n\nLook after friends: if unconscious, place in recovery position and seek emergency support. Administer Naloxone if available."
+        },
+        {
+          "id": "smoke-not-inject-basic",
+          "title": "[INJECTING] Basic (Smoke Not Inject)",
+          "worker_notes": "Short injecting reduction block.",
+          "text": "Smoke not inject. If injecting, only use a small amount. Don’t share cookers or needles with anyone else. Risk of BBVs is heightened if sharing."
+        },
+        {
+          "id": "injecting-clean-works-dvt",
+          "title": "[INJECTING] Clean Works, Vein Damage, DVT",
+          "worker_notes": "Use when documenting needle re-use, vein damage, infections, and DVT risks.",
+          "text": "Discussed importance of using clean ‘works’, particularly using a needle only once where possible to avoid barbing of the tips and the subsequent vein damage which can lead to abscesses, infections, collapsed veins and DVTs."
+        },
+        {
+          "id": "injecting-tourniquet-groin-femoral",
+          "title": "[INJECTING] Tourniquet + Groin Injecting Risks (Femoral artery/nerve)",
+          "worker_notes": "Use when documenting higher-risk injecting harm reduction.",
+          "text": "If using a tourniquet, advised to release the tourniquet before pushing the plunger to avoid risk of loss of limb if an overdose occurs and the person is alone. Advised to rotate sites. Discussed groin injecting risks including keeping the area clean, checking for abscesses, risk of hitting the femoral artery (may require hospitalisation) and risk of damaging the femoral nerve which controls leg and muscle movement and can result in serious mobility problems or paralysis."
+        },
+        {
+          "id": "alcohol-advice",
+          "title": "[ALCOHOL] Harm Reduction Block",
+          "worker_notes": "Use when alcohol is relevant to the client’s risks/triggers.",
+          "text": "Alcohol – drink a lower ABV where possible and a smaller amount.\n\nDon’t drink on an empty stomach.\n\nDon’t mix spirits, lagers and beers as it makes it harder to count units.\n\nDon’t exceed 14 units in a week if possible (Government Guidelines).\n\nBe aware alcohol may be a trigger for other drugs (cocaine)."
+        },
+        {
+          "id": "overdose-risks-general",
+          "title": "[OVERDOSE] Tolerance + Not Using Alone",
+          "worker_notes": "Use when you’ve discussed overdose risk and basic safety steps.",
+          "text": "Overdose risks discussed. Tolerance levels may be lower following periods of reduced or no illicit use, so advised to use only a small amount at a time. Advised not to use alone and to use with others where possible."
+        },
+        {
+          "id": "overdose-response-actions",
+          "title": "[OVERDOSE] Response (Recovery Position, CPR, Ambulance)",
+          "worker_notes": "Use when you’ve covered recognising overdose and what to do.",
+          "text": "Discussed how to identify signs of depressant overdose and stimulant overdose. Discussed recovery position and chest compressions until ambulance arrives. Discussed how to call an ambulance, what to say, staying with the person until help arrives, and informing ambulance crew what substances have been taken."
+        },
+        {
+          "id": "naloxone-training-full",
+          "title": "[NALOXONE] Full Training (Injectable + Nasal)",
+          "worker_notes": "Use when you deliver or document Naloxone training and the client’s understanding.",
+          "text": "Naloxone training given and advised, including how Naloxone works, how to recognise an opioid overdose, when and how Naloxone would be beneficial, and how/where to administer. Discussed safe disposal routes of used kits, recovery position and calling an ambulance. Discussed both injectable and nasal administration. Client engaged well and demonstrated understanding."
+        },
+        {
+          "id": "naloxone-demonstrated-knowledge",
+          "title": "[NALOXONE] Client Demonstrated Knowledge",
+          "worker_notes": "Use only if this was explicitly demonstrated.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "[CLIENT] was able to explain the signs of an opioid overdose and describe step-by-step how Naloxone would be administered. Recovery position and emergency response were also discussed."
+        },
+        {
+          "id": "naloxone-basic",
+          "title": "[NALOXONE] Basic Awareness",
+          "worker_notes": "Shorter block when you only cover basics.",
+          "text": "Basic Naloxone use discussed and advised including when and how Naloxone would be beneficial, awareness of how to administer, recovery position and emergency response."
+        },
+        {
+          "id": "naloxone-on-release-agreement",
+          "title": "[NALOXONE] Agreement to Take on Release / Pre-Release Training",
+          "worker_notes": "Use when the client agrees to take Naloxone on release.",
+          "text": "Agreed client will take Naloxone on release and complete 1-1 training pre-release where required. Client demonstrated understanding of overdose signs and the positives of having Naloxone."
+        },
+        {
+          "id": "post-release-appointment-info",
+          "title": "[RELEASE] Community Appointment Information",
+          "worker_notes": "Use when advising a client of appointments arranged on release.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "[CLIENT] advised of upcoming community appointment following release. Explained that appointment details and paperwork will be available on the day of release."
+        },
+        {
+          "id": "bbv-full",
+          "title": "[BBV] Awareness, Transmission, Reducing Risk",
+          "worker_notes": "Use when BBVs were covered as part of harm reduction.",
+          "text": "BBV discussion held regarding how BBVs are transmitted and how to reduce risks of contamination. Advised not to share any drug paraphernalia; any shared item can carry BBVs and it is not limited to needles. Testing, support and treatment options discussed and client advised to contact DART for further information or support. Encouraged ongoing discussions around BBVs to raise awareness and reduce stigma."
+        },
+        {
+          "id": "immune-system-health-risk",
+          "title": "[HEALTH] Immune System / Illness Risk",
+          "worker_notes": "Standalone health-focused harm reduction block.",
+          "text": "Discussed how illicit substance use can weaken the immune system and increase the risk of illness, including Covid and flu. Advised on basic hygiene measures to reduce risk of infection."
+        },
+        {
+          "id": "infection-illness-covid-flu",
+          "title": "[HEALTH] Infection / Illness Risks (COVID/Flu)",
+          "worker_notes": "Use when you include illness risks and hygiene advice.",
+          "text": "Discussion held around illicit substance use weakening immune system and increasing risks of Covid, flu and other illnesses. Advised to reduce risks of disease and illness: use clean surfaces, wash hands before and after, do not share equipment, attempt to keep area sterile and sanitise regularly."
+        },
+        {
+          "id": "hooch-risks",
+          "title": "[HOOCH] Health Risks Block",
+          "worker_notes": "Use when hooch is relevant.",
+          "text": "Hooch health risks discussed including BBV risks and long-term organ damage. Advised negative impact on health, wellbeing and time in custody. Disease and illness linked to hooch discussed and encouraged abstinence while in custody. Honest discussions around use to continue to ensure risks are reduced as they occur.\n\nOther side effects discussed may include damage to optic nerves, loss of sight/impaired vision, internal bleeding, liver damage, overdose, stroke, botulism poisoning (fatal), and risk of death."
+        },
+        {
+          "id": "prescription-medication-harm",
+          "title": "[MEDS] Prescription Medication – Harm Reduction",
+          "worker_notes": "Use when discussing pregabalin/benzos/other meds or unknown substances.",
+          "text": "Harm around prescription medications discussed. Warned about deaths in the community from prescription medications used alongside other substances and the risks around using unknown substances. Open discussions promoted and encouraged safer use where appropriate. Long-term impact on health and wellbeing discussed and confirmed to be understood. Client advised to alert staff or use services (in custody and on release) if suspected overdose or if medical support is required."
+        },
+        {
+          "id": "wellbeing-debt-bullying-regime",
+          "title": "[WELLBEING] Debt / Bullying / Regime Impacts",
+          "worker_notes": "Use when you discuss prison-specific consequences.",
+          "text": "Discussed impacts of illicit substance use on overall wellbeing including risk of debt, bullying/exploitation, negative impact on prison regime and associated consequences. Client participated well and demonstrated understanding."
+        },
+        {
+          "id": "no-sh-si-disclosed",
+          "title": "[RISK CHECK] No Self-Harm/Suicide Disclosed",
+          "worker_notes": "Quick line to add to many Portal notes.",
+          "text": "No thoughts of self-harm or suicide disclosed."
+        },
+        {
+          "id": "hepb-hepc-status",
+          "title": "[BBV] Hep B / Hep C Status (If Provided)",
+          "worker_notes": "Use when client states vaccination/testing status.",
+          "text": "Client stated he has had his Hep B course of injections and was tested for Hep C."
+        }
+      ]
+    },
+    {
+      "id": "relapse-prevention",
+      "name": "Relapse Prevention",
+      "items": [
+        {
+          "id": "rp-plan-completed",
+          "title": "[RP] Plan Completed",
+          "worker_notes": "Use when a relapse prevention plan has been completed in this contact.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Relapse prevention plan completed on [DATE]. [CLIENT] participated [ENGAGEMENT – e.g. well/appropriately]. Discussed high-risk situations and triggers ([TRIGGERS]). Discussed coping strategies to avoid lapse/relapse including [STRATEGIES – e.g. routine, exercise, work/education, support groups/SMART, community services, hobbies/interests]."
+        },
+        {
+          "id": "rp-plan-reviewed",
+          "title": "[RP] Plan Reviewed / Revisited",
+          "worker_notes": "Use when an existing relapse prevention plan is reviewed (not newly completed).\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Relapse prevention plan reviewed/revisited on [DATE]. Discussed current triggers and high-risk situations ([TRIGGERS]) and reviewed coping strategies currently in place ([CURRENT STRATEGIES]). Agreed focus areas prior to next contact: [FOCUS AREAS]."
+        },
+        {
+          "id": "rp-early-warning-signs",
+          "title": "[RP] Early Warning Signs Discussed",
+          "worker_notes": "Use when focusing on recognising early warning signs and responding early.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Discussed early warning signs of lapse/relapse on [DATE]. Identified warning signs relevant to [CLIENT] ([WARNING SIGNS – e.g. cravings, low mood, boredom, association with other users, increased stress]). Discussed actions to take at early stage ([EARLY ACTIONS – e.g. distraction strategies, support contact, safer choices, structured activity])."
+        },
+        {
+          "id": "rp-protective-factors",
+          "title": "[RP] Protective Factors Identified",
+          "worker_notes": "Use when recording protective factors/recovery capital.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Protective factors discussed/identified on [DATE]. Protective factors for [CLIENT] include: [PROTECTIVE FACTORS – e.g. family contact, health, housing plan, employment/education, pro-social routine, support services, peer support]. Discussed how these factors reduce risk and how to strengthen them going forward."
+        },
+        {
+          "id": "rp-lapse-vs-relapse",
+          "title": "[RP] Lapse vs Relapse Discussed",
+          "worker_notes": "Use when normalising slips and encouraging early disclosure/support.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Discussed the difference between a lapse and a relapse on [DATE]. Emphasised the importance of seeking support early if risk increases or if use occurs, to reduce harm and prevent escalation. Agreed [CLIENT] will seek support via [SUPPORT ROUTE – e.g. kiosk/DART contact/Officers] if experiencing cravings, pressure to use, or after any lapse."
+        },
+        {
+          "id": "rp-release-focused",
+          "title": "[RP] Release Focused (First Days/Weeks)",
+          "worker_notes": "Use when relapse prevention is focused on the release period.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "Release-focused relapse prevention discussed on [DATE]. Discussed risks during the immediate release period ([RELEASE RISKS – e.g. contact with known users, stress, accommodation issues, access to substances]). Discussed protective actions for the first [TIMEFRAME] ([ACTIONS – e.g. attend appointments, safe routine, avoid certain areas/people, contact support services, Naloxone if relevant])."
+        },
+        {
+          "id": "rp-ambivalence-checkins",
+          "title": "[RP] Ambivalent / Prefers Check-ins",
+          "worker_notes": "Use when the client does not wish to engage in structured relapse prevention work.\n\n⚠️ Copy with placeholders — edit fields in [SQUARE BRACKETS] before saving.",
+          "text": "[CLIENT] discussed relapse prevention options on [DATE] and did not wish to complete structured relapse prevention work at this time. [CLIENT] expressed preference for [PREFERRED OPTION – e.g. 1:1 check-ins/welfare support/harm reduction only]. This was acknowledged and agreed, with option to revisit relapse prevention work at a later date."
+        }
+      ]
+    }
+  ]
+}
