@@ -126,6 +126,9 @@ function renderItems() {
   });
 
   itemSelect.selectedIndex = Math.min(state.itemIndex, Math.max(0, items.length - 1));
+  state.itemIndex = Math.min(state.itemIndex, Math.max(0, items.length - 1));
+itemSelect.selectedIndex = state.itemIndex;
+
 }
 
 function renderOutput() {
